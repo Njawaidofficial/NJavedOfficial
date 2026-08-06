@@ -88,7 +88,7 @@ Telegram · Discord · AWS · Linux · Nginx
 | ✈️ Telegram | [@RogueClaw](https://t.me/RogueClaw) |
 | 💬 WhatsApp | [+1 (740) 326-2063](https://wa.me/17403262063) |
 | ✉️ Email | [Support@zerentalabs.com](mailto:Support@zerentalabs.com) |
-| 🐙 GitHub | [@NJavedOfficial](https://github.com/NJavedOfficial) |
+| 🐙 GitHub | [@NJavedOfficial](https://github.com/Njawaidofficial) |
 
 ---
 
